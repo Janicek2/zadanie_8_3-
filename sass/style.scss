@@ -1,0 +1,24 @@
+$niebieski: blue;
+$pozycja: center;
+
+h1 {
+    text-align: $pozycja;
+    background: $niebieski;
+    color: white;
+    width: 100%;
+    margin: 0 0;
+}
+
+h2 {
+    text-align: $pozycja;
+    color: $niebieski;
+    margin: 70px 40px
+}
+
+p {
+    text-align: $pozycja;
+    line-height: 24px;
+    font-size: 20px;
+    color: white;
+    background-color: $niebieski;
+}
