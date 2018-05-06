@@ -1,9 +1,6 @@
-// scripts.js
+var 
+    a = 3,
+    h = 3,
+    triangleArea = a*h/2;
 
-// var name = prompt('Enter your name');
-/*alert('Hello, ' + name);
-console.log('Hello, ' + name);*/
-
-// Komentarz dodane
-
-/* Jakby były takie zadania to pewnie bym nadrobił a tak może być cięćko ;-) */
+    console.log('Triangle field with base a: ' + a + ' and height h: ' + h + ' is equal to: ' + triangleArea);
